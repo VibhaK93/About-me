@@ -1,12 +1,6 @@
 # About-me
 
 
-
-<p align="center">
-  <img src=" https://github.com/VibhaK93/About-me/blob/main/Vibhashaee_Shyani1152%202.jpg "
- alt="Vibhashree Shyani" width="350"/>
-</p>
-
 <h1 align="center">Vibhashree Shyani</h1>
 <p align="center">
   <i>Business Data Analyst | MSIS | MBA </i><br>
