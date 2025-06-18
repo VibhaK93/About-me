@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src=" "
+  <img src=" https://github.com/VibhaK93/About-me/blob/main/Vibhashaee_Shyani1152%202.jpg "
  alt="Vibhashree Shyani" width="350"/>
 </p>
 
