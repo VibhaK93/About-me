@@ -1,4 +1,3 @@
-# About-me
 
 
 <h1 align="center">Vibhashree Shyani</h1>
@@ -10,7 +9,7 @@
 </p>
 
 
-### 👋 Hi — I'm Vibhashree Shyani
+### 👋 Hi — I'm Vibhashree 
 
 After 4+ years bridging the gap between messy data and meaningful growth, I’ve gone from the west coast of India to the Bay Area, chasing the kind of business questions that keep teams up at night. I believe the best stories in analytics start with “why?” — Why does a campaign flatline after a promising start? Why do high-value customers suddenly churn? Why do certain metrics sound impressive but mean nothing to the bottom line?
 
