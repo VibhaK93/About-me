@@ -11,17 +11,17 @@
 
 ### 👋 Hi — I'm Vibhashree 
 
-After 4+ years bridging the gap between messy data and meaningful growth, I’ve gone from the west coast of India to the Bay Area, chasing the kind of business questions that keep teams up at night. I believe the best stories in analytics start with “why?” — Why does a campaign flatline after a promising start? Why do high-value customers suddenly churn? Why do certain metrics sound impressive but mean nothing to the bottom line?
+With 2+ years of experience transforming noisy data into business-critical insights, I’ve led analytics initiatives across industries — from luxury retail with Sephora to autism care with Centria Healthcare. Whether I’m building dashboards viewed by VPs or mapping data architectures for marketing transformation, my goal remains the same: make data not just readable, but actionable.
 
-My passion sits at the intersection of marketing and data. For me, analysis isn’t just about charts and dashboards; it’s about turning funnel leaks into conversion lift, transforming acquisition spend into LTV, and building frameworks that help teams prioritize signal over noise. Whether it’s isolating true campaign ROI from attribution fog, modeling next-quarter revenue shocks, or architecting GTM analytics for product launches, I thrive on making data make sense.
+My strength lies at the intersection of marketing strategy and data analytics. I’ve architected marketing performance dashboards used to personalize campaigns at scale, automated sales reporting workflows for $60M+ revenue pipelines, and defined data governance frameworks to eliminate inconsistencies and siloed truths. From SQL logic to Power BI storytelling to stakeholder workshops, I’m fluent in the full lifecycle of data-driven decision making.Whether it's reducing reporting effort by 5+ hours/week through automation, or increasing behavior technician performance by 25% through clinical quality analytics, I thrive in high-impact environments where data clarity becomes a competitive advantage.
 
-I love creating clarity in chaos — designing KPI ecosystems that cut through vanity metrics, running A/B tests that reshape growth strategy, and using scenario modeling to turn what-ifs into concrete plans. My drive is to answer the tough questions: What *should* we measure? What metric moves the business forward? And how can marketing analytics become the lever that turns insight into revenue?
+Before diving into data pipelines and performance dashboards, I started my journey solving business challenges on the front lines of digital transformation. At IIMT Studies, I helped lead the modernization of an E-learning platform—driving a 30% increase in student engagement through better processes, product adoption strategies, and KPI-driven insight. At Potenza Global Solutions, I delivered 30+ tech projects as a Business Analyst and Project Manager, transforming ambiguous client requirements into agile sprints, wireframes, and revenue-generating applications.
 
-After completing my master's in Information Systems in San Francisco, I'm laser-focused on one thing: partnering with teams where data-driven decision making isn't just buzzword compliance — it's the competitive advantage that scales revenue, optimizes acquisition costs, and turns retention into a growth engine.
+That foundation—rooted in business strategy, stakeholder management, and process improvement—laid the groundwork towards my analytical journey.
 
-**My sweet spot?** High-stakes environments where "let me model that scenario" leads to million-dollar reallocations, where SQL queries unlock growth hypotheses, and where the right segmentation strategy can transform entire customer lifecycles.
+With dual Master’s degrees in Information Systems and Marketing, I bridge both the business why and the technical how — helping teams unlock insights, streamline execution, and scale smarter.
 
-Ready to turn your growth questions into revenue answers? Let's connect.
+Let’s connect if you're looking for someone who can bring structure to data chaos, and turn performance questions into measurable results.
 
 ---
 
