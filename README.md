@@ -50,70 +50,57 @@ Beta Gamma Sigma Honors – Beta Gamma Sigma Honor Society, Dec 2022
 
 ---
 
-### 🔧 Specialties
+### 💼 Experience (Timeline View)
 
-#### **Marketing Analytics & Funnel Optimization**
-- Designed full-funnel acquisition and retention KPIs using SQL, Tableau, and Python at [HP Life](#hp-life--customer-engagement--campaign-optimization).
-- Identified behavioral drop-offs and improved conversion rates by 15–21% through A/B testing and Z-tests.
+| 📍 Potenza Global Solutions, India (Jan ’17 – May '18) |
+| ---------------------------------------------------------------------------------------- |
+| 🔹 Role: Business Analyst / Project Manager                                              |
+| 🔧 Skills: JIRA, Agile, SDLC, Smartsheet, Stakeholder Mgt                                 |
+| ✅ Delivered 30+ app projects, reduced change requests 60%                                 |
+| 💰 Led mobile game apps generating +\$15K revenue                                         |
 
-#### **Lifecycle Strategy & Segmentation**
-- Developed reactivation and LTV-based user segments across 25K+ journeys at [EcoTable](#ecotable--growth-strategy--lifecycle-analytics).
-- Delivered retention dashboards integrating churn, CAC, and reactivation insights into campaign planning.
+                           ⬇
 
-#### **Revenue Strategy & Offer Performance**
-- Modeled campaign uplift and cannibalization across 40+ national promotions at [McDonald’s](#mcdonalds--sales--promo-performance-analytics).
-- Unlocked $3.2M in incremental revenue by reallocating spend toward high-ROAS offers and sequences.
+| 📍 IIMT Studies, India (Jun ’18 – Jun ’20 ) |
+| ---------------------------------------------------------------------------- |
+| 🔹 Role: Business Analyst                                                     |
+| 📊 Skills: Excel, Power Query, Training, LMS, KPI Design                      |
+| 📈 Drove 30% increase in student engagement post-DX                           |
+| 👥 Onboarded 5,000+ users through workshops + LMS support                     |
 
-#### **Product Adoption & GTM Analytics**
-- Built end-to-end KPI reporting for Microsoft’s Mem0 AI product using Power BI at [Microsoft](#microsoft--mem0-go-to-market--kpi-reporting).
-- Increased lead generation by 32% through vertical targeting and executive-ready dashboards.
+                            ⬇
 
-#### **Forecasting & What-If Simulation**
-- Forecasted 90-day sales using Prophet and scenario modeling via Isolation Forest in [Sales Forecasting Project](#sales-forecasting--market-shock-impact-dashboard).
-- Enabled proactive revenue planning against price shocks, stockouts, and delivery delays.
 
-#### **Ad Performance & Channel Efficiency**
-- Analyzed paid vs. retargeted user cohorts using statistical testing at [HP Life](#hp-life--customer-engagement--campaign-optimization).
-- Reallocated $1.2M in ad spend after identifying 21% uplift from targeted remarketing.
+ | 📍 Propeller Inc., San Francisco (Jun ’22 – Jun ’23)  |
+| ------------------------------------------------------------------------------------- |
+| 🔹 Role: Consultant – Data Analytics & BI                                            |
+| 📊 Skills: Power BI, SQL, Salesforce, APIs, Revenue KPIs                               |
+| 📉 Reduced data errors 40%, boosted BT efficiency by 25%                                |
+| 📈 Automated \$60M revenue tracking & ad hoc reporting                                  |
 
-#### **Retail Ops & Vendor Intelligence**
-- Automated inventory-vendor pipelines with AWS Glue and Redshift at [Meijer](#meijer--inventory--vendor-scorecard-insights).
-- Built real-time dashboards to align product flow with campaign timelines and store-level execution.
+                            ⬇
+     
+| 📍 ZealTech Inc., Fremont (Jul ’23 – Jul ’24)    |
+| ------------------------------------------------------------------------------- |
+| 🔹 Role: Business Analyst                                                         |
+| 📊 Skills: Tableau, Data Governance, Collibra, Workflows                          |
+| 📊 Built 7+ dashboards for campaign KPIs & segmentation                           |
+| 📄 Delivered governance assessment for SEPHORA’s data ops                        |
 
----
+-------------------------------------------------------------
 
-### 💼 Experience
-
-#### EcoTable – Growth Strategy / Lifecycle Analytics  
-*San Francisco | Feb 2025 – Present*  
-Built EcoTable’s marketing analytics foundation using AWS and Python, developing LTV-based segmentation, churn metrics, and campaign performance dashboards to drive lifecycle growth.
-
-#### HP Life – Customer Engagement & Campaign Optimization  
-*Malloy Group (Client: HP Life) | San Francisco | Sept 2023 – Apr 2024*  
-Analyzed learner funnels and ad channels to improve conversion and retention; revealed a 21% uplift in retargeted cohorts and helped reallocate $1.2M in spend using Python and Tableau.
-
-#### Microsoft – Mem0 Go-to-Market & KPI Reporting  
-*Malloy Group (Client: Microsoft)*  
-Shaped GTM strategy and built Power BI reporting for Mem0’s AI product adoption; identified healthcare as the lead vertical, increasing qualified leads by 32%.
-
-#### McDonald’s – Sales & Promo Performance Analytics  
-*Capgemini (client: McDonald's)| Mumbai | Jul 2019 – Jul 2023*  
-Modeled national offer uplift and cannibalization across 40+ campaigns, driving $3.2M in value via budget optimization. Built Power BI dashboards to surface promo pacing and ROAS.
-
-#### Meijer – Inventory & Vendor Scorecard Insights  
-*Capgemini (client: Meijer) | Mumbai*  
-Automated vendor performance pipelines using AWS Glue and Airflow; improved fulfillment response times and enabled promo alignment through real-time QuickSight dashboards.
 
 ---
 
-### 📊 Project Highlights
+### 🧩 Experience Timeline Snapshot
 
-| Project | Description | Tools & Techniques |
-|--------|-------------|---------------------|
-| [**📈 Sales Forecasting & Market Shock Dashboard**](https://github.com/sengupta0603/Sales-Forecasting-Market-Shock-Dashboard) | Forecasting dashboard with AI-based anomaly detection and What-If scenario modeling. | `Python`, `Power BI`, `Prophet`, `Isolation Forest`, `DAX` |
-| [**💳 Loan Approval & Risk Recommendation**](https://github.com/sengupta0603/Bank-Loan-Risk-Analysis-Dashboard) | Risk classification dashboard for loan approvals using probability-based modeling. | `Python`, `SQL`, `Tableau`, `Logistic Regression` |
-| [**🚀 AWS Churn Analytics Pipeline**](https://github.com/sengupta0603/Python-SQL-Projects/tree/main/AWS_Datapipeline) | Automated churn reporting pipeline with real-time dashboards for retention insights. | `AWS S3`, `Glue`, `Redshift`, `Airflow`, `QuickSight` |
-| [**🎵 Spotify Streaming Analytics Dashboard**](https://github.com/sengupta0603/Spotify-Dashboard-Analysis-) | Interactive dashboard analyzing top artists, genres, and listening trends. | `SQL`, `Power BI`, `Spotify API`, `Bravo`, `Deneb`, `Python` |
+| 📅 Time Period | 🛠️ Key Tools & Platforms               | 🎯 Focus Areas                                 |
+|---------------|----------------------------------------|------------------------------------------------|
+| 2017–2018     | JIRA, Smartsheet, Agile                | SDLC, Product Delivery, App Management         |
+| 2018–2020     | Excel, LMS, Power Query                | Digital Transformation, E-learning, KPIs       |
+| 2022–2023     | Power BI, SQL, Salesforce, API Integration | Healthcare Analytics, Automation, Revenue   |
+| 2023–2024     | Tableau, Collibra, Figma               | Marketing Insights, Data Governance            |
+
 
 ---
 
