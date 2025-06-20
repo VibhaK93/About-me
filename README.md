@@ -15,24 +15,37 @@ With 3+ years of experience transforming noisy data into business-critical insig
 
 My strength lies at the intersection of marketing strategy and data analytics. I’ve architected marketing performance dashboards used to personalize campaigns at scale, automated sales reporting workflows for $60M+ revenue pipelines, and defined data governance frameworks to eliminate inconsistencies and siloed truths. From SQL logic to Power BI storytelling to stakeholder workshops, I’m fluent in the full lifecycle of data-driven decision making.Whether it's reducing reporting effort by 5+ hours/week through automation, or increasing behavior technician performance by 25% through clinical quality analytics, I thrive in high-impact environments where data clarity becomes a competitive advantage.
 
-Before diving into data pipelines and performance dashboards, I started my journey solving business challenges on the front lines of Business development. At IIMT Studies, I helped lead the transformation of an E-learning platform, driving a 30% increase in student engagement through better processes, new tool adoption strategies, and KPI-driven insight. At Potenza Global Solutions, I delivered 30+ tech projects as a Business Analyst and Project Manager, transforming ambiguous client requirements into agile sprints, wireframes, and revenue-generating applications.
+Before diving into data pipelines and performance dashboards, I began my journey at the intersection of business development and analysis, solving real-world challenges with a strategic and hands-on approach. At IIMT Studies, I led the transformation of an E-learning platform, boosting student engagement by 30% through process improvements, KPI-led decision-making, and strategic adoption of digital tools. Before that, at Potenza Global Solutions, I transitioned into a dual role as Business Analyst and Project Manager, where I successfully delivered 30+ tech projects. I specialized in translating complex client needs into structured requirements, agile sprints, wireframes, and ultimately, scalable digital solutions that drove measurable business outcomes. 
 
 That foundation—rooted in business strategy, stakeholder management, and process improvement—laid the groundwork towards my analytical journey.
 
 With dual Master’s degrees in Information Systems and Marketing, I bridge both the business why and the technical how — helping teams unlock insights, streamline execution, and scale smarter.
 
-Let’s connect if you're looking for someone who can bring structure to data chaos, and turn performance questions into measurable results.
+Let’s connect if you're looking for someone who can bring structure to data chaos and turn performance questions into measurable results.
 
 ---
 
 ### 🛠 Skills
 
-| **Data & Analytics**     | **Marketing & Growth**        | **Visualization**         | **Cloud & Tools**                 | **Collaboration & PM**        |
-|--------------------------|-------------------------------|---------------------------|---------------------------------- |-------------------------------|
-| SQL, Python              | Go-to-Market Strategy         | Power BI, Tableau         | AWS (S3, Redshift, Glue)          | Stakeholder Collaboration,    |
-| Regression Analysis      | Campaign Analytics            | QuickSight, Excel         | Airflow, API Integration          |  Jira, Asana, Agile,          |
-| Funnel & Churn Modeling  | Lifecycle & Retention         | Ad Hoc KPI Reporting      |                                   |                               |
-| Segmentation, A/B Testing| ROI, LTV & CAC                | Stakeholder Reporting     |                                   |                               |
+| **Data & Analytics**                     | **Marketing & Growth**        | **Visualization & Reporting**       | **Cloud & Platforms**        | **Collaboration & PM**          |
+| ---------------------------------------- | ----------------------------- | ----------------------------------- | ---------------------------- | ------------------------------- |
+| SQL (SSMS), IBM SPSS, JMP                | Google Analytics              | Tableau, Power BI (DAX, PowerQuery) | Microsoft Azure, AWS, GCP    | Jira, Trello, Smartsheet        |
+| Statistical Analysis                     | Market Research               | Excel, Ad Hoc Reporting             | Salesforce CRM, NetSuite ERP | Agile Methodology, Scrum (SAFe) |
+| Survey Design (Qualtrics, Survey Monkey) | Lifecycle Analytics           | PowerPoint, G Suite, MS Suite       | API Integration, Totango     | Project Management, Lucidchart  |
+|                                          | Figma, Data Storytelling            |                              | Stakeholder Communication       |
+
+--- 
+
+
+### 📜 Certifications
+
+Microsoft Certified: Azure Data Fundamentals
+
+SAFe Certified: Scrum Master
+
+Google Data Analytics Certificate
+
+Beta Gamma Sigma Honors – Beta Gamma Sigma Honor Society, Dec 2022
 
 
 ---
